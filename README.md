@@ -1,5 +1,5 @@
 # link-library
-Amazing and useful articles and repositories
+Amazing and useful articles and repositories mostly about C# and Microsoft .Net related technologies
 
 ## repositories
 
