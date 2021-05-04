@@ -12,3 +12,5 @@ Scroll :scroll: is a collection of amazing and useful articles and repositories 
 
 * [Fetch API, Streams API, NDJSON, and ASP.NET Core MVC](https://www.tpeczek.com/2019/04/fetch-api-streams-api-ndjson-and-aspnet.html)  
   > How to use Fetch API, Streams API, and NDJSON to improve user experience by streaming JSON objects from server to client.
+* [Push git commits and tags simultaneously](https://stackoverflow.com/questions/3745135/push-git-commits-tags-simultaneously)
+  > SO answe on how to push git commit + tag in as an atomic operation.
