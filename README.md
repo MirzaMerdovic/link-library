@@ -7,6 +7,8 @@ Scroll :scroll: is a collection of amazing and useful articles and repositories 
   > The Microsoft.VisualStudio.Threading is a xplat library that provides many threading and synchronization primitives used in Visual Studio and other applications.  
 * [NetEscapades.AspNetCore.SecurityHeaders](https://github.com/andrewlock/NetEscapades.AspNetCore.SecurityHeaders)
   > A small package to allow adding security headers to ASP.NET Core websites.
+* [dotnet-monitor](https://github.com/dotnet/dotnet-monitor)
+  > Tool that allows you to gather diagnostic data from running applications using HTTP endpoints 
 
 ## Articles
 
