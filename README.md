@@ -16,3 +16,10 @@ Scroll :scroll: is a collection of amazing and useful articles and repositories 
   > How to use Fetch API, Streams API, and NDJSON to improve user experience by streaming JSON objects from server to client.
 * [Push git commits and tags simultaneously](https://stackoverflow.com/questions/3745135/push-git-commits-tags-simultaneously)
   > SO answe on how to push git commit + tag in as an atomic operation.
+
+## Utility
+
+* [RecyclableMemoryStream](https://github.com/microsoft/Microsoft.IO.RecyclableMemoryStream)
+  > A library to provide pooling for .NET MemoryStream objects to improve application performance. 
+* [dotnet-outdated](https://github.com/dotnet-outdated/dotnet-outdated)
+  > A .NET Core global tool to display and update outdated NuGet packages in a project 
