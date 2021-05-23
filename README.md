@@ -23,3 +23,5 @@ Scroll :scroll: is a collection of amazing and useful articles and repositories 
   > A library to provide pooling for .NET MemoryStream objects to improve application performance. 
 * [dotnet-outdated](https://github.com/dotnet-outdated/dotnet-outdated)
   > A .NET Core global tool to display and update outdated NuGet packages in a project 
+* [Generate-Certs](https://github.com/asheroto/Generate-Certs)
+  > Windows/Linux/Mac script that generates self-signed SSL/TLS certificates, including the Root CA cert.
