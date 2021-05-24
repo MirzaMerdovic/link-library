@@ -25,3 +25,5 @@ Scroll :scroll: is a collection of amazing and useful articles and repositories 
   > A .NET Core global tool to display and update outdated NuGet packages in a project 
 * [Generate-Certs](https://github.com/asheroto/Generate-Certs)
   > Windows/Linux/Mac script that generates self-signed SSL/TLS certificates, including the Root CA cert.
+* [build-push-action](https://github.com/docker/build-push-action)
+  > GitHub Action to build and push Docker images with [Buildx](https://github.com/docker/buildx)
