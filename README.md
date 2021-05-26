@@ -27,3 +27,5 @@ Scroll :scroll: is a collection of amazing and useful articles and repositories 
   > Windows/Linux/Mac script that generates self-signed SSL/TLS certificates, including the Root CA cert.
 * [build-push-action](https://github.com/docker/build-push-action)
   > GitHub Action to build and push Docker images with [Buildx](https://github.com/docker/buildx)
+* [docker-compose -> elasticsearch-logstash-kibana](https://github.com/docker/awesome-compose/tree/master/elasticsearch-logstash-kibana)
+  > A docker-compose example for running Elasticsearch, Logstash, and Kibana (ELK) in single-node
