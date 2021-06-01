@@ -29,3 +29,5 @@ Scroll :scroll: is a collection of amazing and useful articles and repositories 
   > GitHub Action to build and push Docker images with [Buildx](https://github.com/docker/buildx)
 * [docker-compose -> elasticsearch-logstash-kibana](https://github.com/docker/awesome-compose/tree/master/elasticsearch-logstash-kibana)
   > A docker-compose example for running Elasticsearch, Logstash, and Kibana (ELK) in single-node
+* [serilog-expressions](https://github.com/serilog/serilog-expressions)
+  > An embeddable mini-language for filtering, enriching, and formatting Serilog events, ideal for use with JSON or XML configuration. 
