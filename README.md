@@ -9,6 +9,8 @@ Scroll :scroll: is a collection of amazing and useful articles and repositories 
   > A small package to allow adding security headers to ASP.NET Core websites.
 * [dotnet-monitor](https://github.com/dotnet/dotnet-monitor)
   > Tool that allows you to gather diagnostic data from running applications using HTTP endpoints 
+* [IpcServiceFramework](https://github.com/jacqueskang/IpcServiceFramework)
+  > .NET Core Inter-process communication framework 
 
 ## Articles
 
