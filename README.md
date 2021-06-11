@@ -11,6 +11,8 @@ Scroll :scroll: is a collection of amazing and useful articles and repositories 
   > Tool that allows you to gather diagnostic data from running applications using HTTP endpoints 
 * [IpcServiceFramework](https://github.com/jacqueskang/IpcServiceFramework)
   > .NET Core Inter-process communication framework 
+* [cloud-carbon-footprint](https://github.com/cloud-carbon-footprint/cloud-carbon-footprint)
+  > Cloud Carbon Footprint is a tool to estimate energy use (kilowatt-hours) and carbon emissions (metric tons CO2e) from public cloud usage 
 
 ## Articles
 
