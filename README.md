@@ -20,6 +20,8 @@ Scroll :scroll: is a collection of amazing and useful articles and repositories 
   > How to use Fetch API, Streams API, and NDJSON to improve user experience by streaming JSON objects from server to client.
 * [Push git commits and tags simultaneously](https://stackoverflow.com/questions/3745135/push-git-commits-tags-simultaneously)
   > SO answe on how to push git commit + tag in as an atomic operation.
+* [Data structure and algorithms](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+  > Data structures and algorithm visualizations
 
 ## Utility
 
