@@ -22,6 +22,8 @@ Scroll :scroll: is a collection of amazing and useful articles and repositories 
   > SO answe on how to push git commit + tag in as an atomic operation.
 * [Data structure and algorithms](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
   > Data structures and algorithm visualizations
+* [blazor-university](https://blazor-university.com/)
+  > Learn the new .Net SPA framework from Microsoft
 
 ## Utility
 
