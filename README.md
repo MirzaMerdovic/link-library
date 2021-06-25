@@ -13,6 +13,10 @@ Scroll :scroll: is a collection of amazing and useful articles and repositories 
   > .NET Core Inter-process communication framework 
 * [cloud-carbon-footprint](https://github.com/cloud-carbon-footprint/cloud-carbon-footprint)
   > Cloud Carbon Footprint is a tool to estimate energy use (kilowatt-hours) and carbon emissions (metric tons CO2e) from public cloud usage 
+* [Nerdbank.GitVersioning](https://github.com/dotnet/Nerdbank.GitVersioning)
+  > Stamp your assemblies, packages and more with a unique version generated from a single, simple version.json file and include git commit IDs for non-official builds.
+* [Nerdbank.Streams](https://github.com/AArnott/Nerdbank.Streams)
+  > Specialized .NET Streams and pipes for full duplex in-proc communication, web sockets, and multiplexing 
 
 ## Articles
 
