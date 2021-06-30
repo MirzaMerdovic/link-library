@@ -17,6 +17,8 @@ Scroll :scroll: is a collection of amazing and useful articles and repositories 
   > Stamp your assemblies, packages and more with a unique version generated from a single, simple version.json file and include git commit IDs for non-official builds.
 * [Nerdbank.Streams](https://github.com/AArnott/Nerdbank.Streams)
   > Specialized .NET Streams and pipes for full duplex in-proc communication, web sockets, and multiplexing 
+* [Snapshooter](https://github.com/SwissLife-OSS/Snapshooter)
+  > Snapshooter is a snapshot testing tool for .NET Core and .NET Framework 
 
 ## Articles
 
