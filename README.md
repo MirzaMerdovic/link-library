@@ -21,6 +21,8 @@ Scroll :scroll: is a collection of amazing and useful articles and repositories 
   > Snapshooter is a snapshot testing tool for .NET Core and .NET Framework
 * [IdempotentAPI](https://github.com/ikyriak/IdempotentAPI)
   > An ASP.NET Core attribute by which any HTTP write operations (POST and PATCH) can have effect only once for the given request data. 
+* [serilog-settings-configuration](https://github.com/serilog/serilog-settings-configuration)
+  > A Serilog configuration provider that reads from Microsoft.Extensions.Configuration 
 
 ## Articles
 
