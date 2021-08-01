@@ -28,8 +28,6 @@ Scroll :scroll: is a collection of amazing and useful articles and repositories 
 
 * [Fetch API, Streams API, NDJSON, and ASP.NET Core MVC](https://www.tpeczek.com/2019/04/fetch-api-streams-api-ndjson-and-aspnet.html)  
   > How to use Fetch API, Streams API, and NDJSON to improve user experience by streaming JSON objects from server to client.
-* [Push git commits and tags simultaneously](https://stackoverflow.com/questions/3745135/push-git-commits-tags-simultaneously)
-  > SO answe on how to push git commit + tag in as an atomic operation.
 * [Data structure and algorithms](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
   > Data structures and algorithm visualizations
 * [blazor-university](https://blazor-university.com/)
@@ -49,3 +47,9 @@ Scroll :scroll: is a collection of amazing and useful articles and repositories 
   > A docker-compose example for running Elasticsearch, Logstash, and Kibana (ELK) in single-node
 * [serilog-expressions](https://github.com/serilog/serilog-expressions)
   > An embeddable mini-language for filtering, enriching, and formatting Serilog events, ideal for use with JSON or XML configuration. 
+
+## Threads/Discussions/Issues
+* [Push git commits and tags simultaneously](https://stackoverflow.com/questions/3745135/push-git-commits-tags-simultaneously)
+  > SO answer on how to push git commit + tag in as an atomic operation.
+* [Making HttpContext.User available to 3rd party code without Microsoft.AspNetCore.Http dependency](https://github.com/dotnet/aspnetcore/issues/34636)
+  > Discussion about accessing User from IPrincipal
