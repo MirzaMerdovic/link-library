@@ -23,7 +23,7 @@ Scroll :scroll: is a collection of amazing and useful articles and repositories 
   > An ASP.NET Core attribute by which any HTTP write operations (POST and PATCH) can have effect only once for the given request data. 
 * [serilog-settings-configuration](https://github.com/serilog/serilog-settings-configuration)
   > A Serilog configuration provider that reads from Microsoft.Extensions.Configuration 
-# [NScenario](https://github.com/cezarypiatek/NScenario)
+* [NScenario](https://github.com/cezarypiatek/NScenario)
   > Dead simple library for annotating steps of test case scenarios.   
 
 ## Articles
