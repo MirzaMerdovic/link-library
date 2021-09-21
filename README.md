@@ -25,6 +25,8 @@ Scroll :scroll: is a collection of amazing and useful articles and repositories 
   > A Serilog configuration provider that reads from Microsoft.Extensions.Configuration 
 * [NScenario](https://github.com/cezarypiatek/NScenario)
   > Dead simple library for annotating steps of test case scenarios.   
+* [Brighter](https://github.com/BrighterCommand/Brighter)
+  > Command Dispatcher, Processor, and Distributed Task Queue
 
 ## Articles
 
