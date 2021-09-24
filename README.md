@@ -4,7 +4,7 @@ Scroll :scroll: is a collection of amazing and useful articles and repositories 
 ## Repositories
 
 * [VS-THREADING](https://github.com/microsoft/vs-threading)  
-  > The Microsoft.VisualStudio.Threading is a xplat library that provides many threading and synchronization primitives used in Visual Studio and other applications.  
+  > The Microsoft.VisualStudio.Threading is a xplat library that provides many threading and synchronization primitives used in Visual Studio and other applications. 
 * [NetEscapades.AspNetCore.SecurityHeaders](https://github.com/andrewlock/NetEscapades.AspNetCore.SecurityHeaders)
   > A small package to allow adding security headers to ASP.NET Core websites.
 * [dotnet-monitor](https://github.com/dotnet/dotnet-monitor)
@@ -27,6 +27,14 @@ Scroll :scroll: is a collection of amazing and useful articles and repositories 
   > Dead simple library for annotating steps of test case scenarios.   
 * [Brighter](https://github.com/BrighterCommand/Brighter)
   > Command Dispatcher, Processor, and Distributed Task Queue
+* [IpcServiceFramework](https://github.com/jacqueskang/IpcServiceFramework)
+  > .NET Core Inter-process communication framework
+* [WatsonWebsocket](https://github.com/jchristn/WatsonWebsocket)
+  > A simple C# async websocket server and client for reliable transmission and receipt of data
+* [NetCoreServer](https://github.com/chronoxor/NetCoreServer)
+  > Ultra fast and low latency asynchronous socket server & client C# .NET Core library with support TCP, SSL, UDP, HTTP, HTTPS, WebSocket protocols and 10K connections problem solution
+* [dotnet-monitor](https://github.com/dotnet/dotnet-monitor)
+  > This repository contains the source code for .NET Monitor - a tool that allows you to gather diagnostic data from running applications using HTTP endpoints
 
 ## Articles
 
