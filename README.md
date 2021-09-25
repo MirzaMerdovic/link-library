@@ -65,6 +65,12 @@ Scroll :scroll: is a collection of amazing and useful articles and repositories 
   > An embeddable mini-language for filtering, enriching, and formatting Serilog events, ideal for use with JSON or XML configuration. 
 * [vs-threading](https://github.com/microsoft/vs-threading)
   > The Microsoft.VisualStudio.Threading is a xplat library that provides many threading and synchronization primitives used in Visual Studio and other applications. 
+* [slngen](https://github.com/microsoft/slngen)
+  > SlnGen generated VS soultion file using project references
+* [minver](https://github.com/adamralph/minver)
+  > Minimalistic versioning using Git tags.
+* [crank](https://github.com/dotnet/crank)
+  > Benchmarking infrastructure for applications from Microsoft
 
 ## Threads/Discussions/Issues
 * [Push git commits and tags simultaneously](https://stackoverflow.com/questions/3745135/push-git-commits-tags-simultaneously)
