@@ -76,6 +76,8 @@ Scroll :scroll: is a collection of amazing and useful articles and repositories 
   > Benchmarking infrastructure for applications from Microsoft
 * [uptime](https://upptime.js.org/docs/)
   > Uptime monitor and status page powered by GitHub Actions, Issues, and Pages
+* [FASTER](https://github.com/microsoft/FASTER)
+  > Fast persistent recoverable log and key-value store + cache, in C# and C++
 
 ## Threads/Discussions/Issues
 * [Push git commits and tags simultaneously](https://stackoverflow.com/questions/3745135/push-git-commits-tags-simultaneously)
