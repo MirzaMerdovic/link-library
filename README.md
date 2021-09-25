@@ -61,6 +61,8 @@ Scroll :scroll: is a collection of amazing and useful articles and repositories 
   > A docker-compose example for running Elasticsearch, Logstash, and Kibana (ELK) in single-node
 * [serilog-expressions](https://github.com/serilog/serilog-expressions)
   > An embeddable mini-language for filtering, enriching, and formatting Serilog events, ideal for use with JSON or XML configuration. 
+* [serilog-expressions](https://github.com/serilog/serilog-expressions)
+  > An embeddable mini-language for filtering, enriching, and formatting Serilog events, ideal for use with JSON or XML configuration. 
 
 ## Threads/Discussions/Issues
 * [Push git commits and tags simultaneously](https://stackoverflow.com/questions/3745135/push-git-commits-tags-simultaneously)
