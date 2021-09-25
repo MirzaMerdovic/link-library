@@ -44,6 +44,8 @@ Scroll :scroll: is a collection of amazing and useful articles and repositories 
   > Data structures and algorithm visualizations
 * [blazor-university](https://blazor-university.com/)
   > Learn the new .Net SPA framework from Microsoft
+* [Superpower](https://github.com/datalust/superpower)
+  > A C# parser construction toolkit with high-quality error reporting
 
 ## Utility
 
