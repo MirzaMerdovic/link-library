@@ -54,6 +54,7 @@ Scroll :scroll: is a collection of amazing and useful articles and repositories 
 * [Superpower](https://github.com/datalust/superpower)
   > A C# parser construction toolkit with high-quality error reporting
 
+
 ## Utilities
 
 * [RecyclableMemoryStream](https://github.com/microsoft/Microsoft.IO.RecyclableMemoryStream)
@@ -72,6 +73,9 @@ Scroll :scroll: is a collection of amazing and useful articles and repositories 
   > A .NET library for distributed synchronization
 * [AspNetCoreRateLimit](https://github.com/stefanprodan/AspNetCoreRateLimit)
   > ASP.NET Core rate limiting middleware
+* [AngelSharp](https://github.com/AngleSharp/AngleSharp)
+  > The ultimate angle brackets parser library parsing HTML5, MathML, SVG and CSS to construct a DOM based on the official W3C specifications.
+
 
 ## Tools
 
@@ -97,6 +101,7 @@ Scroll :scroll: is a collection of amazing and useful articles and repositories 
   > LiteDB - A .NET NoSQL Document Store in a single data file - https://www.litedb.org
 * [Lightning.NET](https://github.com/CoreyKaylor/Lightning.NET)
   > .NET library for LMDB key-value store 
+
 
 ## Threads/Discussions/Issues
 * [Push git commits and tags simultaneously](https://stackoverflow.com/questions/3745135/push-git-commits-tags-simultaneously)
