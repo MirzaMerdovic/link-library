@@ -95,6 +95,8 @@ Scroll :scroll: is a collection of amazing and useful articles and repositories 
   > Distributed transaction solution in micro-service base on eventually consistency, also an eventbus with Outbox pattern
 * [LiteDB](https://github.com/mbdavid/LiteDB)
   > LiteDB - A .NET NoSQL Document Store in a single data file - https://www.litedb.org
+* [Lightning.NET](https://github.com/CoreyKaylor/Lightning.NET)
+  > .NET library for LMDB key-value store 
 
 ## Threads/Discussions/Issues
 * [Push git commits and tags simultaneously](https://stackoverflow.com/questions/3745135/push-git-commits-tags-simultaneously)
