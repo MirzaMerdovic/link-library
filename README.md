@@ -3,8 +3,6 @@ Scroll :scroll: is a collection of amazing and useful articles and repositories 
 
 ## Repositories
 
-* [VS-THREADING](https://github.com/microsoft/vs-threading)  
-  > The Microsoft.VisualStudio.Threading is a xplat library that provides many threading and synchronization primitives used in Visual Studio and other applications. 
 * [NetEscapades.AspNetCore.SecurityHeaders](https://github.com/andrewlock/NetEscapades.AspNetCore.SecurityHeaders)
   > A small package to allow adding security headers to ASP.NET Core websites.
 * [dotnet-monitor](https://github.com/dotnet/dotnet-monitor)
@@ -35,6 +33,8 @@ Scroll :scroll: is a collection of amazing and useful articles and repositories 
   > Ultra fast and low latency asynchronous socket server & client C# .NET Core library with support TCP, SSL, UDP, HTTP, HTTPS, WebSocket protocols and 10K connections problem solution
 * [dotnet-monitor](https://github.com/dotnet/dotnet-monitor)
   > This repository contains the source code for .NET Monitor - a tool that allows you to gather diagnostic data from running applications using HTTP endpoints
+* [hotchocolate](https://github.com/ChilliCream/hotchocolate)
+  > Welcome to the home of the Hot Chocolate GraphQL server for .NET, the Strawberry Shake GraphQL client for .NET and Banana Cake Pop the awesome Monaco based GraphQL IDE.
 
 ## Articles
 
