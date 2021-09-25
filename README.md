@@ -39,6 +39,9 @@ Scroll :scroll: is a collection of amazing and useful articles and repositories 
   > .NET managed sockets wrapper using the new "Pipelines" API
 * [NonBlocking](https://github.com/VSadov/NonBlocking)
   > Implementation of a lock-free dictionary on .Net.
+* [refit](https://github.com/reactiveui/refit)
+  > The automatic type-safe REST library for .NET Core, Xamarin and .NET. Heavily inspired by Square's Retrofit library, Refit turns your REST API into a live interface. 
+
 
 ## Articles
 
@@ -84,6 +87,10 @@ Scroll :scroll: is a collection of amazing and useful articles and repositories 
   > Fast persistent recoverable log and key-value store + cache, in C# and C++
 * [DurableFunctionsMonitor](https://github.com/scale-tone/DurableFunctionsMonitor)
   > A monitoring/debugging UI tool for Azure Durable Functions
+* [HttpRepl](https://github.com/dotnet/HttpRepl)
+  > The HTTP Read-Eval-Print Loop (REPL) is a lightweight, cross-platform command-line tool that's supported everywhere .NET Core is supported and is used for making HTTP requests to test ASP.NET Core web APIs and view their results. 
+* [CAP](https://github.com/dotnetcore/CAP)
+  > Distributed transaction solution in micro-service base on eventually consistency, also an eventbus with Outbox pattern
 
 ## Threads/Discussions/Issues
 * [Push git commits and tags simultaneously](https://stackoverflow.com/questions/3745135/push-git-commits-tags-simultaneously)
