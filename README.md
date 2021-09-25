@@ -37,7 +37,8 @@ Scroll :scroll: is a collection of amazing and useful articles and repositories 
   > Welcome to the home of the Hot Chocolate GraphQL server for .NET, the Strawberry Shake GraphQL client for .NET and Banana Cake Pop the awesome Monaco based GraphQL IDE.
 * [Pipelines.Sockets.Unofficial](https://github.com/mgravell/Pipelines.Sockets.Unofficial)
   > .NET managed sockets wrapper using the new "Pipelines" API
-
+* [NonBlocking](https://github.com/VSadov/NonBlocking)
+  > Implementation of a lock-free dictionary on .Net.
 
 ## Articles
 
