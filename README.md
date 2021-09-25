@@ -47,16 +47,12 @@ Scroll :scroll: is a collection of amazing and useful articles and repositories 
 * [Superpower](https://github.com/datalust/superpower)
   > A C# parser construction toolkit with high-quality error reporting
 
-## Utility
+## Utilities
 
 * [RecyclableMemoryStream](https://github.com/microsoft/Microsoft.IO.RecyclableMemoryStream)
   > A library to provide pooling for .NET MemoryStream objects to improve application performance. 
-* [dotnet-outdated](https://github.com/dotnet-outdated/dotnet-outdated)
-  > A .NET Core global tool to display and update outdated NuGet packages in a project 
 * [Generate-Certs](https://github.com/asheroto/Generate-Certs)
   > Windows/Linux/Mac script that generates self-signed SSL/TLS certificates, including the Root CA cert.
-* [build-push-action](https://github.com/docker/build-push-action)
-  > GitHub Action to build and push Docker images with [Buildx](https://github.com/docker/buildx)
 * [docker-compose -> elasticsearch-logstash-kibana](https://github.com/docker/awesome-compose/tree/master/elasticsearch-logstash-kibana)
   > A docker-compose example for running Elasticsearch, Logstash, and Kibana (ELK) in single-node
 * [serilog-expressions](https://github.com/serilog/serilog-expressions)
@@ -65,12 +61,21 @@ Scroll :scroll: is a collection of amazing and useful articles and repositories 
   > An embeddable mini-language for filtering, enriching, and formatting Serilog events, ideal for use with JSON or XML configuration. 
 * [vs-threading](https://github.com/microsoft/vs-threading)
   > The Microsoft.VisualStudio.Threading is a xplat library that provides many threading and synchronization primitives used in Visual Studio and other applications. 
+* [DistributedLock](https://github.com/madelson/DistributedLock)
+  > A .NET library for distributed synchronization
+
+## Tools
+
+* [build-push-action](https://github.com/docker/build-push-action)
+  > GitHub Action to build and push Docker images with [Buildx](https://github.com/docker/buildx)
 * [slngen](https://github.com/microsoft/slngen)
   > SlnGen generated VS soultion file using project references
 * [minver](https://github.com/adamralph/minver)
   > Minimalistic versioning using Git tags.
 * [crank](https://github.com/dotnet/crank)
   > Benchmarking infrastructure for applications from Microsoft
+* [uptime](https://upptime.js.org/docs/)
+  > Uptime monitor and status page powered by GitHub Actions, Issues, and Pages
 
 ## Threads/Discussions/Issues
 * [Push git commits and tags simultaneously](https://stackoverflow.com/questions/3745135/push-git-commits-tags-simultaneously)
