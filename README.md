@@ -87,3 +87,5 @@ Scroll :scroll: is a collection of amazing and useful articles and repositories 
   > SO answer on how to push git commit + tag in as an atomic operation.
 * [Making HttpContext.User available to 3rd party code without Microsoft.AspNetCore.Http dependency](https://github.com/dotnet/aspnetcore/issues/34636)
   > Discussion about accessing User from IPrincipal
+* [AspNetCoreDiagnosticScenarios](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios)
+  > This repository has examples of broken patterns in ASP.NET Core applications
