@@ -70,6 +70,8 @@ Scroll :scroll: is a collection of amazing and useful articles and repositories 
   > The Microsoft.VisualStudio.Threading is a xplat library that provides many threading and synchronization primitives used in Visual Studio and other applications. 
 * [DistributedLock](https://github.com/madelson/DistributedLock)
   > A .NET library for distributed synchronization
+* [AspNetCoreRateLimit](https://github.com/stefanprodan/AspNetCoreRateLimit)
+  > ASP.NET Core rate limiting middleware
 
 ## Tools
 
@@ -91,6 +93,8 @@ Scroll :scroll: is a collection of amazing and useful articles and repositories 
   > The HTTP Read-Eval-Print Loop (REPL) is a lightweight, cross-platform command-line tool that's supported everywhere .NET Core is supported and is used for making HTTP requests to test ASP.NET Core web APIs and view their results. 
 * [CAP](https://github.com/dotnetcore/CAP)
   > Distributed transaction solution in micro-service base on eventually consistency, also an eventbus with Outbox pattern
+* [LiteDB](https://github.com/mbdavid/LiteDB)
+  > LiteDB - A .NET NoSQL Document Store in a single data file - https://www.litedb.org
 
 ## Threads/Discussions/Issues
 * [Push git commits and tags simultaneously](https://stackoverflow.com/questions/3745135/push-git-commits-tags-simultaneously)
