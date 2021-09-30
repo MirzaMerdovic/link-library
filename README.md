@@ -101,6 +101,8 @@ Scroll :scroll: is a collection of amazing and useful articles and repositories 
   > LiteDB - A .NET NoSQL Document Store in a single data file - https://www.litedb.org
 * [Lightning.NET](https://github.com/CoreyKaylor/Lightning.NET)
   > .NET library for LMDB key-value store 
+* [GitReleaseManager](https://github.com/GitTools/GitReleaseManager)
+  > Tool for creating and exporting releases for software applications hosted on GitHub 
 
 
 ## Threads/Discussions/Issues
