@@ -41,7 +41,8 @@ Scroll :scroll: is a collection of amazing and useful articles and repositories 
   > Implementation of a lock-free dictionary on .Net.
 * [refit](https://github.com/reactiveui/refit)
   > The automatic type-safe REST library for .NET Core, Xamarin and .NET. Heavily inspired by Square's Retrofit library, Refit turns your REST API into a live interface. 
-
+* [UnitsNet](https://github.com/angularsen/UnitsNet)
+  > Makes life working with units of measurement just a little bit better. 
 
 ## Articles
 
