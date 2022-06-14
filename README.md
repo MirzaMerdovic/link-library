@@ -43,6 +43,8 @@ Scroll :scroll: is a collection of amazing and useful articles and repositories 
   > The automatic type-safe REST library for .NET Core, Xamarin and .NET. Heavily inspired by Square's Retrofit library, Refit turns your REST API into a live interface. 
 * [UnitsNet](https://github.com/angularsen/UnitsNet)
   > Makes life working with units of measurement just a little bit better. 
+* [json-everything](https://github.com/gregsdennis/json-everything)
+  > System.Text.Json-based support for all of your JSON needs.
 
 ## Articles
 
