@@ -47,7 +47,8 @@ Scroll :scroll: is a collection of amazing and useful articles and repositories 
   > System.Text.Json-based support for all of your JSON needs.
 * [cottle](https://github.com/r3c/cottle)
   > High performance template engine for C#
-
+* [GiGraph](https://github.com/mariusz-schimke/GiGraph)
+  > Simple yet versatile library for generating graphs in the DOT language
 
 ## Articles
 
