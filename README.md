@@ -45,6 +45,9 @@ Scroll :scroll: is a collection of amazing and useful articles and repositories 
   > Makes life working with units of measurement just a little bit better. 
 * [json-everything](https://github.com/gregsdennis/json-everything)
   > System.Text.Json-based support for all of your JSON needs.
+* [cottle](https://github.com/r3c/cottle)
+  > High performance template engine for C#
+
 
 ## Articles
 
