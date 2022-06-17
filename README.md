@@ -49,6 +49,9 @@ Scroll :scroll: is a collection of amazing and useful articles and repositories 
   > High performance template engine for C#
 * [GiGraph](https://github.com/mariusz-schimke/GiGraph)
   > Simple yet versatile library for generating graphs in the DOT language
+* [PSRule](https://github.com/microsoft/PSRule)
+  > Validate infrastructure as code (IaC) and objects using PowerShell rules.
+
 
 ## Articles
 
