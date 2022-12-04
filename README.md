@@ -63,7 +63,8 @@ Scroll :scroll: is a collection of amazing and useful articles and repositories 
   > Learn the new .Net SPA framework from Microsoft
 * [Superpower](https://github.com/datalust/superpower)
   > A C# parser construction toolkit with high-quality error reporting
-
+* [Processing data in parallel using Channels] (https://maciejz.dev/processing-data-in-parallel-channels/?utm_source=csharpdigest&utm_medium&utm_campaign=1445)
+  > Parallel processing with Channels
 
 ## Utilities
 
