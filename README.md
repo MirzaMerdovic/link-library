@@ -86,7 +86,8 @@ Scroll :scroll: is a collection of amazing and useful articles and repositories 
   > ASP.NET Core rate limiting middleware
 * [AngelSharp](https://github.com/AngleSharp/AngleSharp)
   > The ultimate angle brackets parser library parsing HTML5, MathML, SVG and CSS to construct a DOM based on the official W3C specifications.
-
+* [Explain Dalibo](https://explain.dalibo.com/)
+  > Visualizing and understanding PostgreSQL EXPLAIN plans made easy.
 
 ## Tools
 
