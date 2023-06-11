@@ -65,7 +65,8 @@ Scroll :scroll: is a collection of amazing and useful articles and repositories 
   > A C# parser construction toolkit with high-quality error reporting
 * [Processing data in parallel using Channels] (https://maciejz.dev/processing-data-in-parallel-channels/?utm_source=csharpdigest&utm_medium&utm_campaign=1445)
   > Parallel processing with Channels
-
+* [Dissecting the local functions in C# 7](https://devblogs.microsoft.com/premier-developer/dissecting-the-local-functions-in-c-7/)
+  > Internals of local functions
 ## Utilities
 
 * [RecyclableMemoryStream](https://github.com/microsoft/Microsoft.IO.RecyclableMemoryStream)
