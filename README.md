@@ -67,6 +67,9 @@ Scroll :scroll: is a collection of amazing and useful articles and repositories 
   > Parallel processing with Channels
 * [Dissecting the local functions in C# 7](https://devblogs.microsoft.com/premier-developer/dissecting-the-local-functions-in-c-7/)
   > Internals of local functions
+* [Implicit Operators In C# And How To Create A Multi Type](https://www.devleader.ca/2023/05/31/implicit-operators-in-c-and-how-to-create-a-multi-type/?utm_source=csharpdigest&utm_medium&utm_campaign=1658)
+  > Using implicit operators to create a Either<T1, T2> construct
+
 ## Utilities
 
 * [RecyclableMemoryStream](https://github.com/microsoft/Microsoft.IO.RecyclableMemoryStream)
